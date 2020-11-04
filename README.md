@@ -1,0 +1,1 @@
+[![Board Status](https://maleklu.visualstudio.com/85245484-e13a-444a-81aa-9546d094db0d/3807df49-3ab1-43e6-bd25-1cad9bee69c7/_apis/work/boardbadge/f77870c2-155c-459e-a74c-383d6140ed80)](https://maleklu.visualstudio.com/85245484-e13a-444a-81aa-9546d094db0d/_boards/board/t/3807df49-3ab1-43e6-bd25-1cad9bee69c7/Microsoft.RequirementCategory)
